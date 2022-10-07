@@ -1,0 +1,10 @@
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\location ödev\location_odev2\bin\Debug\location_odev2.exe.config
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\location ödev\location_odev2\bin\Debug\location_odev2.exe
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\location ödev\location_odev2\bin\Debug\location_odev2.pdb
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\location ödev\location_odev2\obj\Debug\location_odev2.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\location ödev\location_odev2\obj\Debug\location_odev2.Form1.resources
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\location ödev\location_odev2\obj\Debug\location_odev2.Properties.Resources.resources
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\location ödev\location_odev2\obj\Debug\location_odev2.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\location ödev\location_odev2\obj\Debug\location_odev2.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\location ödev\location_odev2\obj\Debug\location_odev2.exe
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\location ödev\location_odev2\obj\Debug\location_odev2.pdb
